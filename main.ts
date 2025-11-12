@@ -528,6 +528,7 @@ let bogey: Sprite = null
 let dart1: Sprite = null
 let dart_bomb: Sprite = null
 let Player_1: Sprite = null
+game.splash("let's start the game")
 effects.starField.startScreenEffect()
 Player_1 = sprites.create(img`
     ................................
